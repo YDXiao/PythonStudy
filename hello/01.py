@@ -1,6 +1,6 @@
 import random
 
-print("-----Python First Game-----")
+print("--这是我的第一个小游戏--")
 ansnum = random.randint(1, 10)
 count = 3
 temp = input("不妨猜一下现在心里想的那个数字，你有"+str(count)+"次机会：")

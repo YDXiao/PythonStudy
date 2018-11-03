@@ -20,3 +20,4 @@ while guess != ansnum:
 else:
     print("你牛逼！")
     print("中了也没有奖励")
+    
